@@ -1,0 +1,2 @@
+Percentage class A: 80.0%
+Percentage class B: 75.0%
